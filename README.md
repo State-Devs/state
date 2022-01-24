@@ -1,2 +1,4 @@
 # state
-Meta-repo for discussions, issues, and docs.
+Meta-repo for docs.
+
+(NOW PUBLIC, NO SENSITIVE INFO)
